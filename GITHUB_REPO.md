@@ -2,9 +2,9 @@
 
 - Repository name: `system-prompt-skills`
 - Default README: `README.md`
-- Description: `从 165 个顶级 AI 产品系统提示词中蒸馏出的 15 个可执行 system prompt 设计 skills`
+- Description: `从 165 个顶级 AI 产品系统提示词中蒸馏出的 15 个可执行 Agent skill`
 - Topics:
-  - `ai-skills`
+  - `agent-skills`
   - `system-prompt`
   - `prompt-engineering`
   - `agent-design`
