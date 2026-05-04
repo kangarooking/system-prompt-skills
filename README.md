@@ -71,11 +71,13 @@ system-prompt-skills/
 4. 如果做 AI 搜索或 RAG，组合 `search-integration`、`citation-system`、`context-management`
 5. 将相关 `SKILL.md` 的触发条件、执行步骤和边界条件接入你的 agent 框架
 
-## 来源
+## 来源与致谢
 
-- 语料：`system_prompts_leaks/`
+- 语料：[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - 覆盖厂商：Anthropic、Google、OpenAI、xAI、Perplexity、Meta、Mistral、Notion、Warp、Brave 等
 - 蒸馏时间：2026-05-04
+
+特别感谢 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) 对各类 AI 产品系统提示词的公开整理。本仓库的 15 个 skills 是在这个原始语料项目基础上，用 cangjie-skill 方法论进一步抽取、归纳和重构而成。站在巨人的肩膀上，才有了这套可复用的系统提示词设计模式库。
 
 ## More Skills
 

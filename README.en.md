@@ -71,11 +71,13 @@ system-prompt-skills/
 4. For AI search or RAG, combine `search-integration`, `citation-system`, and `context-management`
 5. Integrate the relevant `SKILL.md` trigger conditions, procedures, and boundaries into your agent framework
 
-## Source
+## Source and Acknowledgements
 
-- Corpus: `system_prompts_leaks/`
+- Corpus: [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - Vendors covered: Anthropic, Google, OpenAI, xAI, Perplexity, Meta, Mistral, Notion, Warp, Brave, and others
 - Distilled on: 2026-05-04
+
+Special thanks to [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) for publicly collecting and organizing system prompts from AI products. The 15 skills in this repository were further extracted, generalized, and reconstructed from that source corpus using the cangjie-skill methodology. This project moves forward on the shoulders of giants.
 
 ## More Skills
 
